@@ -23569,9 +23569,9 @@ var jackpotAI = {
 	bot2: ["exochase", 1, "https://i.imgur.com/za6Y17z.png"],
 	bot3: ["S5E3", 1, "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/62/62001ac6b067182b65f92fa07797c630af64bb4a_full.jpg"],
 	bot4: ["MR.BEATS", 2, "https://i.imgur.com/dIs0yE8.png"],
-	bot5: ["CockCrusher19", 2, "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/03/03b0621515c85e256c20a8f169737430fa57281d_full.jpg"],
+	bot5: ["Maddex Real", 2, "https://github.com/00f8/imagelibrary/blob/main/maddex.gif?raw=true"],
 	bot6: ["Octane | n OU", 2, "https://i.imgur.com/P2hwwIE.png"],
-	bot7: ["Moon Cricket Butler", 3, "https://i.imgur.com/qNsPKRH.png"],
+	bot7: ["Elliot", 3, "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpHNuqXvvDCC2d8FPupuUTRSc0C7-YyEKxkg&s"],
 	bot8: ["filsmick", 3, "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c3/c31d18ad931fd685ca3af5700db6a461e10bcfe8_full.jpg"],
 	bot9: ["Nino Triste", 3, "https://i.imgur.com/n1iHk8a.png"],
 	bot10: ["Lucky", 4, "https://i.imgur.com/Dg7cI81.png"],
@@ -23600,8 +23600,8 @@ var jackpotAI = {
 
 var jackpotPots = {
 	low: ["bot1", "bot2", "bot3", "bot4", "bot5", "bot6", "bot7", "bot8", "bot9"],
-	medium: ["bot10", "bot11", "bot12", "bot13", "bot14", "bot15", "bot16", "bot17", "bot18", "bot19"],
-	high: ["bot20", "bot21", "bot22", "bot23", "bot24", "bot25", "bot26", "bot27", "bot28", "bot29", "bot30", "bot31"]
+	medium: ["bot5", "bot7", "bot10", "bot11", "bot12", "bot13", "bot14", "bot15", "bot16", "bot17", "bot18", "bot19"],
+	high: ["bot5", "bot7", "bot20", "bot21", "bot22", "bot23", "bot24", "bot25", "bot26", "bot27", "bot28", "bot29", "bot30", "bot31"]
 }
 
 
