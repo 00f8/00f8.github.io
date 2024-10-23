@@ -23027,6 +23027,9 @@ $(".modalMain").on("click", ".modalClose", function() {
 
 $("#acceptButton").click(function() {
 	money += acceptMoneyPerClick;
+	if (localStorage.getItem("username") === "Maddex") {
+	money += 10;
+	}
 	if (acceptedsound)
 		{
 			$('#accepted')[0].play();
