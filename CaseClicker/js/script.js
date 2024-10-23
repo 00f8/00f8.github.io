@@ -9,6 +9,9 @@ var username = localStorage.getItem('username');
 if (localStorage.getItem("username") === null) {
 	localStorage.setItem('username' , "Player 1 (You)")
 }
+if (localStorage.getItem("username") === "Maddex") {
+	bloatboy()
+}
 var useravatar = localStorage.getItem('imgData');
 if (localStorage.getItem("imgData") === null) {
 	localStorage.setItem("imgData" , "https://i.imgur.com/ICK2lr1.jpg")
